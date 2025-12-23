@@ -39,7 +39,3 @@ The Driver Drowsiness Detection System is a real-time computer vision–based ap
 
 ## Author
 **Pranavi K**
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
